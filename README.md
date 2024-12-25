@@ -4,12 +4,12 @@ Hi! I am Premnishok Muhilan and I have more than one year of experience as a sof
 Languages and Tools:
 
 
-## 🔧 Technologies & Tools
-
+## Technologies
 - **Languages**: JavaScript, Python, C
-- **Front-End**: React js, Node.js, Django, etc.
-- **Tools**: Git, Docker, VSCode, etc.
-- 
+- **Front-End**: Html, Css, Bootstrap, React js, Node.js, Django, etc.
+- **Back-End**: Node js, Express js, MySQL, MongoDB
+- **Tools**: Git
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="70" height="70"/>&nbsp;
