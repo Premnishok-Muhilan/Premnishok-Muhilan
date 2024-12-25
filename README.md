@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://avatars.githubusercontent.com/u/your-user-id" alt="Profile Photo" width="150" style="border-radius: 50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/Premnishok-Muhilan" alt="Profile Photo" width="150" style="border-radius: 50%;"/>
 </p>
 
 ## Hi there 👋
