@@ -27,7 +27,7 @@ Languages and Tools:
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Premnishok-Muhilan)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Premnishok-Muhilan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Premnishok-Muhilan&layout=compact)
-![Premnishok Muhilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Premnishok-Muhilan&show_icons=true&theme=dark)
+![Premnishok Muhilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Premnishok-Muhilan&show_icons=true&theme=graywhite)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Premnishok-Muhilan&theme=graywhite&border_radius=10)](https://git.io/streak-stats)
 <!--
