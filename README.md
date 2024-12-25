@@ -1,15 +1,11 @@
 ## Hi there 👋
 Hi! I am Premnishok Muhilan and I have more than one year of experience as a software engineer. I am proficient in MERN stack web development. I'm also proficient with C and Python programming language. With strong fundamentals in computer science I look towards applying my skills in an organization to provide value to the organization. I am persistent learner and I'm actively building my problem solving skills!
 
-Languages and Tools:
-
-
 ## Technologies
 - **Languages**: JavaScript, Python, C
 - **Front-End**: Html, Css, Bootstrap, React js
 - **Back-End**: Node js, Express js, MySQL, MongoDB
 - **Tools**: Git,Linux
-
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="70" height="70"/>&nbsp;
@@ -33,6 +29,8 @@ Languages and Tools:
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/premnishok-muhilan-0668641a9/))
 - [LinkedIn](https://www.linkedin.com/in/premnishok-muhilan-0668641a9/)
+- [![LinkedIn](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/Premnishok-Muhilan)
+
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Premnishok-Muhilan)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Premnishok-Muhilan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
