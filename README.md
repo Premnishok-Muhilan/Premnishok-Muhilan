@@ -6,9 +6,9 @@ Languages and Tools:
 
 ## Technologies
 - **Languages**: JavaScript, Python, C
-- **Front-End**: Html, Css, Bootstrap, React js, Node.js, Django, etc.
+- **Front-End**: Html, Css, Bootstrap, React js
 - **Back-End**: Node js, Express js, MySQL, MongoDB
-- **Tools**: Git
+- **Tools**: Git,Linux
 
 
 <div>
