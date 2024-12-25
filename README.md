@@ -6,8 +6,8 @@ Languages and Tools:
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: JavaScript, Python, C++, etc.
-- **Frameworks**: React, Node.js, Django, etc.
+- **Languages**: JavaScript, Python, C
+- **Front-End**: React js, Node.js, Django, etc.
 - **Tools**: Git, Docker, VSCode, etc.
 - 
 
@@ -26,9 +26,6 @@ Languages and Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" title="Linux" alt="Linux" width="70" height="70"/>
 </div>
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="70" height="70"/>
 
 
 ## 🔗 Connect with Me
