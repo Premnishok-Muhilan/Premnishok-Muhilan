@@ -25,6 +25,7 @@ Languages and Tools:
 - [LinkedIn](https://www.linkedin.com/in/premnishok-muhilan-0668641a9/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Premnishok-Muhilan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Premnishok-Muhilan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Premnishok-Muhilan/Premnishok-Muhilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
