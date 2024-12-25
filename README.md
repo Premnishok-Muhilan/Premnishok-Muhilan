@@ -85,23 +85,6 @@ Languages and Tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="70" height="70"/>
 
 
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/HTML5_logo_and_wordmark.svg" title="HTML5" alt="HTML" width="70" height="70"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" title="CSS3" alt="CSS" width="70" height="70"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Bootstrap_logo.svg" title="Bootstrap" alt="Bootstrap" width="70" height="70"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" title="React" alt="React" width="70" height="70"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Redux_logo.svg" title="Redux" alt="Redux" width="70" height="70"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg" title="NodeJS" alt="NodeJS" width="70" height="70"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Expressjs_logo.svg" title="Express.js" alt="Express.js" width="70" height="70"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/MongoDB_Logo.svg" title="MongoDB" alt="MongoDB" width="70" height="70"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/MySQL_logo.svg" title="MySQL" alt="MySQL" width="70" height="70"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Postman_logo.svg" title="Postman" alt="Postman" width="70" height="70"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Git-logo.svg" title="Git" alt="Git" width="70" height="70"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Expressjs_logo.svg" title="Express.js" alt="Express.js" width="70" height="70" style="filter: invert(1);" />
-</div>
-
-
 ## Frontend Technologies
 
 - ![HTML5](https://cdn.jsdelivr.net/npm/@iconify/icons-logos/html-5.svg)
