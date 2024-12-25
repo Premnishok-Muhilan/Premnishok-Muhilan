@@ -1,4 +1,16 @@
 ## Hi there 👋
+Languages and Tools:
+
+
+## 🔧 Technologies & Tools
+
+- **Languages**: JavaScript, Python, C++, etc.
+- **Frameworks**: React, Node.js, Django, etc.
+- **Tools**: Git, Docker, VSCode, etc.
+- 
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/premnishok-muhilan-0668641a9/)
 
 <!--
 **Premnishok-Muhilan/Premnishok-Muhilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
