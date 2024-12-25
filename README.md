@@ -32,7 +32,7 @@ Hi! I am Premnishok Muhilan and I have more than one year of experience as a sof
 - [![LinkedIn](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/Premnishok-Muhilan)
 
 
-<a href="https://www.linkedin.com/in/Premnishok-Muhilan" target="_blank">
+<a href="https://www.linkedin.com/in/premnishok-muhilan-0668641a9/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="70" height="70"/>
 </a>
 
