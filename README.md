@@ -38,6 +38,7 @@ Hi! I am Premnishok Muhilan and I have more than one year of experience as a sof
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Premnishok-Muhilan&theme=graywhite&border_radius=10)](https://git.io/streak-stats)
 ![Premnishok Muhilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Premnishok-Muhilan&show_icons=true&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Premnishok-Muhilan&layout=compact)
+![Profile views](https://komarev.com/ghpvc/?username=Premnishok-Muhilan)
 
 <!--
 **Premnishok-Muhilan/Premnishok-Muhilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
