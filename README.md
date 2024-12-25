@@ -36,32 +36,6 @@ Languages and Tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="70" height="70"/>
 
 
-## Frontend Technologies
-
-- ![HTML5](https://cdn.jsdelivr.net/npm/@iconify/icons-logos/html-5.svg)
-- ![CSS3](https://cdn.jsdelivr.net/npm/@iconify/icons-logos/css-3.svg)
-- ![Bootstrap](https://cdn.jsdelivr.net/npm/@iconify/icons-logos/bootstrap.svg)
-- ![JavaScript](https://cdn.jsdelivr.net/npm/@iconify/icons-logos/javascript.svg)
-- ![React](https://cdn.jsdelivr.net/npm/@iconify/icons-logos/react.svg)
-- ![Redux](https://cdn.jsdelivr.net/npm/@iconify/icons-logos/redux.svg)
-- ![Node.js](https://cdn.jsdelivr.net/npm/@iconify/icons-logos/nodejs.svg)
-- ![Express.js](https://cdn.jsdelivr.net/npm/@iconify/icons-logos/express.svg)
-
-## Backend Technologies
-
-- ![MySQL](https://cdn.jsdelivr.net/npm/@iconify/icons-logos/mysql.svg)
-- ![MongoDB](https://cdn.jsdelivr.net/npm/@iconify/icons-logos/mongodb.svg)
-- ![Postman](https://cdn.jsdelivr.net/npm/@iconify/icons-logos/postman.svg)
-- ![Git](https://cdn.jsdelivr.net/npm/@iconify/icons-logos/git.svg)
-- ![C](https://cdn.jsdelivr.net/npm/@iconify/icons-logos/c.svg)
-- ![Python](https://cdn.jsdelivr.net/npm/@iconify/icons-logos/python.svg)
-- ![Linux](https://cdn.jsdelivr.net/npm/@iconify/icons-logos/linux-tux.svg)
-
-**COMING SOON...**
-![Linux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
-
-
-
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/premnishok-muhilan-0668641a9/))
 - [LinkedIn](https://www.linkedin.com/in/premnishok-muhilan-0668641a9/)
