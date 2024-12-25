@@ -82,7 +82,7 @@ Languages and Tools:
   </div>
 </div>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="70" height="70"/>
 
 
 ## Frontend Technologies
