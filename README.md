@@ -82,6 +82,9 @@ Languages and Tools:
   </div>
 </div>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="200"/>
+
+
 ## Frontend Technologies
 
 - ![HTML5](https://cdn.jsdelivr.net/npm/@iconify/icons-logos/html-5.svg)
