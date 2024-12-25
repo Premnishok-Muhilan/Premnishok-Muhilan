@@ -104,6 +104,7 @@ Languages and Tools:
 - ![Linux](https://cdn.jsdelivr.net/npm/@iconify/icons-logos/linux-tux.svg)
 
 **COMING SOON...**
+![Linux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
 
 
 
