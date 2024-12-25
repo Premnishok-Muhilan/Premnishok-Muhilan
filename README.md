@@ -40,6 +40,14 @@ Hi! I am Premnishok Muhilan and I have more than one year of experience as a sof
 ![Premnishok Muhilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Premnishok-Muhilan&show_icons=true&theme=graywhite)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Premnishok-Muhilan&theme=graywhite&border_radius=10)](https://git.io/streak-stats)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premnishok-Muhilan&layout=compact" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Premnishok-Muhilan&show_icons=true&theme=graywhite" width="300"/>
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Premnishok-Muhilan&theme=graywhite&border_radius=10" width="300"/>
+  </a>
+</div>
 <!--
 **Premnishok-Muhilan/Premnishok-Muhilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
