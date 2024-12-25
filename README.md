@@ -28,7 +28,7 @@ Languages and Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="70" height="70" style="filter: invert(1);" />
 </div>
 
-<div style="background:white">
+<div style="background: white; padding: 10px; color: red;">
   jhfdjasdf
 </div>
 
