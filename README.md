@@ -26,10 +26,62 @@ Languages and Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="40" height="40" style="filter: invert(1);" />
-
-  
-
 </div>
+
+<div>
+  <div>
+    <span class="iconify" data-icon="logos:html-5" data-inline="false"></span>
+  </div>
+  <div>
+    <span class="iconify" data-icon="logos:css-3" data-inline="false"></span>
+  </div>
+  <div>
+    <span class="iconify" data-icon="logos:bootstrap" data-inline="false"></span>
+  </div>
+  <div>
+    <span class="iconify" data-icon="logos:javascript" data-inline="false"></span>
+  </div>
+  <div>
+    <span class="iconify" data-icon="logos:react" data-inline="false"></span>
+  </div>
+  <div>
+    <span class="iconify" data-icon="logos:redux" data-inline="false"></span>
+  </div>
+  <div>
+    <span class="iconify" data-icon="logos:nodejs" data-inline="false"></span>
+  </div>
+  <div>
+    <span class="iconify" data-icon="logos:express" data-inline="false"></span>
+  </div>
+</div>
+
+<div>
+  <div>
+    <span class="iconify" data-icon="logos:mysql" data-inline="false"></span>
+  </div>
+  <div>
+    <span class="iconify" data-icon="logos:mongodb" data-inline="false"></span>
+  </div>
+  <div>
+    <span class="iconify" data-icon="logos:postman" data-inline="false"></span>
+  </div>
+  <div>
+    <span class="iconify" data-icon="logos:git" data-inline="false"></span>
+  </div>
+  <div>
+    <span class="iconify" data-icon="logos:c" data-inline="false"></span>
+  </div>
+  <div>
+    <span class="iconify" data-icon="logos:python" data-inline="false"></span>
+  </div>
+  <div>
+    <span class="iconify" data-icon="logos:linux-tux" data-inline="false"></span>
+  </div>
+  <div>
+    COMING SOON...
+  </div>
+</div>
+
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/premnishok-muhilan-0668641a9/))
