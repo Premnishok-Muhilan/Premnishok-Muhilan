@@ -25,17 +25,12 @@ Hi! I am Premnishok Muhilan and I have more than one year of experience as a sof
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" title="Linux" alt="Linux" width="70" height="70"/>
 </div>
 
-
 ## Connect with Me
 <a href="https://www.linkedin.com/in/premnishok-muhilan-0668641a9/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="70" height="70"/>
 </a>
 
-
-
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Premnishok-Muhilan)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Premnishok-Muhilan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
+## My Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Premnishok-Muhilan&layout=compact)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Premnishok-Muhilan&theme=graywhite&border_radius=10)](https://git.io/streak-stats)
 ![Premnishok Muhilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Premnishok-Muhilan&show_icons=true&theme=graywhite)
