@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi! I am Premnishok Muhilan and I have more than one year of experience as a software engineer. I am proficient in MERN stack web development. I'm also proficient with C and Python programming language. With strong fundamentals in computer science I look towards applying my skills in an organization to provide value to the organization. I am persistent learner and I'm actively building my problem solving skills!
+Hi! I am Premnishok Muhilan and I have more than one year of experience as a software engineer. I am proficient in MERN stack web development. With strong fundamentals in computer science I look towards applying my skills in an organization to provide value to the organization. I am persistent learner and I'm actively building my problem solving skills!
 
 ## Technologies
 - **Languages**: JavaScript, Python, C
