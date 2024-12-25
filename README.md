@@ -24,6 +24,7 @@ Languages and Tools:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/premnishok-muhilan-0668641a9/))
 - [LinkedIn](https://www.linkedin.com/in/premnishok-muhilan-0668641a9/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Premnishok-Muhilan))
 <!--
 **Premnishok-Muhilan/Premnishok-Muhilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
